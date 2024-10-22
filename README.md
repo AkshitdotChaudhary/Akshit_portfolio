@@ -1,6 +1,6 @@
 # Akshit Portfolio
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a full stack developer. It's built with React and enhanced with the Framer Motion library to add smooth animations and a modern, responsive design.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a full stack developer. It's built with React and have a modern, responsive design.
 
 ## Features
 
@@ -37,7 +37,3 @@ Feel free to open an issue or submit a pull request if you'd like to contribute 
 ## Contact
 
 You can find me on [GitHub](https://github.com/Akshit-Chaudhary) or [LinkedIn](http://www.linkedin.com/in/akshit-chaudhary-b34839312).
-
----
-
-This "README" provides a clear overview of your portfolio project, along with instructions for installation and contact info. Let me know if you'd like any changes!
