@@ -5,9 +5,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 ## Features
 
 - **Responsive Design**: The portfolio is fully responsive and works seamlessly across all devices.
-- **Smooth Animations**: Integrated Framer Motion for sleek and smooth UI transitions.
 - **Project Showcase**: A collection of my key projects with detailed descriptions and links.
-- **Contact Form**: A simple form to get in touch with me.
 
 ## Tech Stack
 
